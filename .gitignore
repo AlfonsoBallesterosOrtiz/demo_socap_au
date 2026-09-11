@@ -1,0 +1,16 @@
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales locales
+.venv/
+venv/
+env/
+
+# Configuraciones locales de Streamlit
+.streamlit/secrets.toml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
